@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: Licensing
   description: Licensing service
+  tags: 
+    - go
+    - cpcl
+    - licensing
   annotations: 
     github.com/project-slug: udaynelluri/licensingcpcl
     backstage.io/source-ref: "https://github.com/udaynelluri/licensingcpcl"
