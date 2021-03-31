@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Licensing
+  description: Licensing service
+  annotations: 
+    github.com/project-slug: udaynelluri/licensingcpcl
+    backstage.io/source-ref: "https://github.com/udaynelluri/licensingcpcl"
+    backstage.io/techdocs-ref: url:https://github.com/udaynelluri/licensingcpcl
+    backstage.io/github-actions-id: https://github.com/udaynelluri/licensingcpcl
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Licensing CPCL
