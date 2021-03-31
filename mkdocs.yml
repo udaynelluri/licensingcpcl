@@ -1,0 +1,8 @@
+site_name: "LicensingDocumentation"
+site_description: "Licensing Documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
